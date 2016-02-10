@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "eazy-bee99",
+    "project_number": "699543973274",
+    "name": "Eazy"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699543973274:android:f6bf803161b5e04d",
+        "client_id": "android:org.example.anders.eazy",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "org.example.anders.eazy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699543973274-s208h863iugff80nk3r1m2v5jkj1asbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.example.anders.eazy",
+            "certificate_hash": "DD7534AF80033951ACB5141BD179F3B460722BA9"
+          }
+        },
+        {
+          "client_id": "699543973274-8pnkb41ot9g2jsnpqavl3gtpd5t1tujr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
